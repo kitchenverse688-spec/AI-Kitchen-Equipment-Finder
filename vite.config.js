@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/AI-Kitchen-Equipment-Finder/' // <-- important for GitHub Pages
+  base: '/AI-Kitchen-Equipment-Finder/' // MUST match repo name
 });
