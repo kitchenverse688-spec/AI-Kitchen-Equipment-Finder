@@ -1,0 +1,5 @@
+{
+  "name": "AI Commercial Kitchen & Laundry Equipment Finder",
+  "description": "An AI-powered web application to search, compare, and analyze commercial kitchen and laundry equipment from across the web. It provides real-time results with pricing, product details, and supplier links using Google's Gemini AI.",
+  "requestFramePermissions": []
+}
